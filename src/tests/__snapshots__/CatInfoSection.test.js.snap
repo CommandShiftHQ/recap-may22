@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CatInfoSection displays cat information 1`] = `
+<div>
+  <div>
+    <p>
+      <b>
+        Name:
+      </b>
+       
+      Bengal
+    </p>
+    <p>
+      <b>
+        Description:
+      </b>
+       
+      Bengals are a lot of fun to live with, but they're definitely not the cat for everyone, or for first-time cat owners. Extremely intelligent, curious and active, they demand a lot of interaction and woe betide the owner who doesn't provide it.
+    </p>
+    <form>
+      <p>
+        Would you agree that ... cats are: 
+      </p>
+      <label
+        data-testid="temperament-checkbox"
+      >
+        <input
+          id="Alert-0"
+          type="checkbox"
+          value="Alert"
+        />
+        Alert
+      </label>
+      <label
+        data-testid="temperament-checkbox"
+      >
+        <input
+          id=" Agile-1"
+          type="checkbox"
+          value=" Agile"
+        />
+         Agile
+      </label>
+      <label
+        data-testid="temperament-checkbox"
+      >
+        <input
+          id=" Energetic-2"
+          type="checkbox"
+          value=" Energetic"
+        />
+         Energetic
+      </label>
+      <label
+        data-testid="temperament-checkbox"
+      >
+        <input
+          id=" Demanding-3"
+          type="checkbox"
+          value=" Demanding"
+        />
+         Demanding
+      </label>
+      <label
+        data-testid="temperament-checkbox"
+      >
+        <input
+          id=" Intelligent-4"
+          type="checkbox"
+          value=" Intelligent"
+        />
+         Intelligent
+      </label>
+      <button>
+        Submit
+      </button>
+    </form>
+    <img
+      alt="cat"
+      height="auto"
+      src="https://cdn2.thecatapi.com/images/O3btzLlsO.png"
+      width="60%"
+    />
+  </div>
+</div>
+`;
