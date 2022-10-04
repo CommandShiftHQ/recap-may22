@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CatTemperamentForm renders as expected 1`] = `
+<DocumentFragment>
+  <form>
+    <p>
+      Would you agree that ... cats are: 
+    </p>
+    <label
+      data-testid="temperament-checkbox"
+    >
+      <input
+        id="Alert-0"
+        type="checkbox"
+        value="Alert"
+      />
+      Alert
+    </label>
+    <label
+      data-testid="temperament-checkbox"
+    >
+      <input
+        id=" Agile-1"
+        type="checkbox"
+        value=" Agile"
+      />
+       Agile
+    </label>
+    <label
+      data-testid="temperament-checkbox"
+    >
+      <input
+        id=" Energetic-2"
+        type="checkbox"
+        value=" Energetic"
+      />
+       Energetic
+    </label>
+    <label
+      data-testid="temperament-checkbox"
+    >
+      <input
+        id=" Demanding-3"
+        type="checkbox"
+        value=" Demanding"
+      />
+       Demanding
+    </label>
+    <label
+      data-testid="temperament-checkbox"
+    >
+      <input
+        id=" Intelligent-4"
+        type="checkbox"
+        value=" Intelligent"
+      />
+       Intelligent
+    </label>
+    <button>
+      Submit
+    </button>
+  </form>
+</DocumentFragment>
+`;
